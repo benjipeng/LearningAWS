@@ -1,12 +1,12 @@
 ## Create React App
 Check the version first and then run commands
-![createReactApp](createReactApp.png)
+![createReactApp](createReactApp.png | width=100)
 Cd into folder
-![cdFolder](cdFolder.png)
+![cdFolder](cdFolder.png | width=100)
 Launch website
-![runProject](runNpm.png)
+![runProject](runNpm.png | width=100)
 ## Setup Git repository
-![createRepo](createRepo.png)
+![createRepo](createRepo.png | width=100)
 Keep the repo link that is generated in the next screen.
 Since create-react-app already initiated the git repo. In terminal, cd to the react project folder and run.
 ```
