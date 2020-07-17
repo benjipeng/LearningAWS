@@ -22,4 +22,5 @@ Select __GitHub__.<br>
 <img src="selectGithub.png" width="650"><br>
 Walk through the authentication. In the __Add repository branch__ screen. Select the react project repo and the __master__ branch.<br>
 <img src="addRepo.png" width="550"><br>
-In the follow-up screen, simply accept the default build settings (auto-detected from the app's _package.json_ build settings) and select __Next__. Review the final details and choose __Save and Deploy__
+In the follow-up screen, simply accept the default build settings (auto-detected from the app's _package.json_ build settings) and select __Next__. Review the final details and choose __Save and Deploy__.<br>
+<img src="deploySuccess.png" width="650"><br>
