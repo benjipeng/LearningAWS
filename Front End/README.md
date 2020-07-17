@@ -1,10 +1,10 @@
 ## Create React App
 Check the version first and then run commands
-![createReactApp](createReactApp.png | width=100)
+![createReactApp](createReactApp.png){:width="50px"}
 Cd into folder
-![cdFolder](cdFolder.png | width=100)
+![cdFolder](cdFolder.png){:height="24px" width="48px"}
 Launch website
-![runProject](runNpm.png | width=100)
+![runProject](runNpm.png){:height="24px" width="48px"}
 ## Setup Git repository
 ![createRepo](createRepo.png | width=100)
 Keep the repo link that is generated in the next screen.
