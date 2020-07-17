@@ -1,5 +1,6 @@
 ## Create React App
 Check the version first and then run commands
+<img src="createReactApp.png" width="300">
 ![createReactApp](createReactApp.png){:width="50px"}
 Cd into folder
 ![cdFolder](cdFolder.png){:height="24px" width="48px"}
